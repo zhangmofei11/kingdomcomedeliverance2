@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingdomcomedeliverance2.wiki.com/sitemap.xml
